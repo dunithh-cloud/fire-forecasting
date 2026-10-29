@@ -1,0 +1,2 @@
+# fire-forecasting
+using AI 
